@@ -13,6 +13,7 @@ public:
 	WordClass(string);  //used to open a dict file
 	~WordClass();
 	//functions
+	void doesNothing();
 	bool contains(string, string);
 	bool contains(char, string);
 	string reverse(string);
