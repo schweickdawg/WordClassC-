@@ -3,7 +3,7 @@
 using namespace std;
 WordClass::WordClass()
 {
-
+	//daddy  likes steak
 }
 WordClass::WordClass(string a)
 {
